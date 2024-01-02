@@ -1,0 +1,40 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Andres;Fidel;;;
+FN:Fidel Andres
+ORG:Lordlock Dev
+ADR;TYPE=WORK:
+TITLE:Software Developer
+TEL;TYPE=CELL:+5353647405
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:fidelhacker13@gmail.com
+URL;TYPE=Digital Business Card:https://lordlock.dev/contact
+URL:Lordlock.dev
+URL;TYPE=Telegram:https://t.me/lordlock
+URL;TYPE=Website:Lordlock.dev
+URL;TYPE=GitHub:https://github.com/fidelhacker13
+URL;TYPE=Instagram:https://instagram.com/fidel_andres13
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100075851
+END:VCARD
+VERSION:3.0
+N:Andres;Fidel;;;
+FN:Fidel Andres
+ORG:
+ADR;TYPE=WORK:
+TITLE:
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:
+URL;TYPE=Digital Business Card:
+URL:
+
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100373820
+END:VCARD
